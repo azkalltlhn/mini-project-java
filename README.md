@@ -16,7 +16,9 @@ This program is designed to make it easy for users to add, display, search, and 
 ```bash
 git clone https://github.com/username/student-grade-app.git 
 ```
-```bash cd student-grade-app ```
+```bash
+cd student-grade-app
+```
 
 2. Compile the program:
 ```bash javac Main.java ```

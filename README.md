@@ -13,9 +13,8 @@ This program is designed to make it easy for users to add, display, search, and 
 **🚀 How to Run**
 
 1. Clone the repository:
-
-```bash git clone https://github.com/username/student-grade-app.git ```bash
-```bash cd student-grade-app ```bash
+git clone https://github.com/username/student-grade-app.git 
+cd student-grade-app 
 
 2. Compile the program:
 ```bash javac Main.java ```bash

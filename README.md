@@ -21,7 +21,11 @@ cd student-grade-app
 ```
 
 2. Compile the program:
-```bash javac Main.java ```
+```bash
+javac Main.java
+```
 
-3. Run the application:
-```bash java Main ```
+4. Run the application:
+```bash
+java Main
+```

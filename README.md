@@ -13,11 +13,13 @@ This program is designed to make it easy for users to add, display, search, and 
 **🚀 How to Run**
 
 1. Clone the repository:
+```bash
 git clone https://github.com/username/student-grade-app.git 
-cd student-grade-app 
+```
+```bash cd student-grade-app ```
 
 2. Compile the program:
-```bash javac Main.java ```bash
+```bash javac Main.java ```
 
 3. Run the application:
-```bash java Main ```bash
+```bash java Main ```
